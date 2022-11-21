@@ -5,7 +5,7 @@ By Saravanan S
 
 Here's the Live Deployed Website
 
-## [Link to the Paytm clone](https://ineuron-project-01.netlify.app/) 
+## [Link to the Paytm clone](https://proj-paytm-clone.netlify.app/) 
 
 <!-- ![Completed Website](./1.png) -->
 
